@@ -7,7 +7,9 @@
 
 <p>
   <em>
- oy un estudiante de tercer año del Instituto de Ciencia y Tecnología SRM , Kattankulatur . Un desarrollador de software en ciernes y un entusiasta del diseño, que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para crecer y sobresalir.
+ Soy un estudiante de Ing de Sistemas<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , 
+    un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br> ,
+  que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para crecer y sobresalir.
  
  
  I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
@@ -23,10 +25,6 @@
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
-
-
-
-S
 
 
 <br>
