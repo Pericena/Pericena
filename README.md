@@ -7,18 +7,11 @@
 
 <p>
   <em>
- Soy un estudiante de  <b>Ing de Sistemas</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , 
-    un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br> ,
-  que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para 
-  <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y 
-  <b>sobresalir.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+ Soy un estudiante de  <b>Ing de Sistemas</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br> , que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y <b>sobresalir.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
  
   <a href="https://www.srmist.edu.in/"><b>blog</b></a>
   
- I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
- 
+  
   </em>  
 </p>
 
