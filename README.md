@@ -36,9 +36,7 @@ const thai = {
 }
 ```
   </em>  
-</p>
 
-<br>
 
 
 **Languages and Tools:** 
