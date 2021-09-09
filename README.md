@@ -36,7 +36,12 @@ const thai = {
 </p>
 
 <br>
-# **Languages and Tools:** 
+
+
+**Languages and Tools:** 
+
+
+
 <p align="center">
  
 
@@ -77,7 +82,21 @@ const thai = {
 
 <br>
 <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### ✨Visitors
+
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
 
