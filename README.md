@@ -6,7 +6,7 @@
 
 
 
-<p>
+<p align="center">
   <em>
  Soy un estudiante de  <b>Ing de Sistemas</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br> , que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y <b>sobresalir.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
  
