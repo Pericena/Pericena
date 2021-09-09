@@ -32,20 +32,15 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
-  
   </em>  
 </p>
 
-
 <br>
-
+<p align="center">
 **Languages and Tools:**  
 
 <!--<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>-->
-<p align="center">
-
 <img height="40" src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
@@ -64,9 +59,6 @@ const thai = {
 
 
 
-
-
-
 <br>
 
   <a href="https://www.linkedin.com/in/lpericena/">
@@ -82,21 +74,9 @@ const thai = {
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
-
-
-
-
-
+<br>
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
-
-
-
-
-
-
-
 
 
 
