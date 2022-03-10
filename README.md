@@ -82,12 +82,7 @@ const thai = {
 
 
 
-
-
 <p align="center">
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
-
-
 <br>
   <a href="https://www.linkedin.com/in/lpericena/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -102,6 +97,15 @@ const thai = {
 <br>
 <br>
 </p>
+
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
+
+
+
 ### ✨Visitors
+
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
+
+
 
