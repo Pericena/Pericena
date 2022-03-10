@@ -1,4 +1,4 @@
-### hola soy Luishiño <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+#### hola soy Luishiño <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 ```zsh
 > neofetch
 ```
@@ -6,23 +6,23 @@
 
 
 ```csharp
-https://lpericena.blogspot.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+Pericena@github
 -------------------------
 OS: Debian Linux x86_64
 Shell: zsh
 users: Luishiño Pericena
 Location: Santa_Cruz, BO
-Frameworks: React, Angular, Django
-Languages: JavaScript, TypeScript,
-           HTML/CSS, Java, SQL (Postgres)
-Learning: Node.js, Express, Julia, R,
-          Python, Bulma
+Frameworks: Laravel ,Angular, Flask
+Languages: JavaScript,
+           HTML/CSS, Java, SQL,python
+Learning: Node.js
 Hobbies: Animes/Manga, Books, Movies
-Commits: 43
-Stars: 16
-Discord: Dup1n#4973
+blog : lpericena.blogspot.com
+twitter: @Lpericena
+instagram: @lpericena
+linkedin: lpericena
 ```
-<p align="left">
+<p align="right">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#fdfefe" src="https://via.placeholder.com/15/fdfefe/000000?text=+" width="25" height="20" /><img alt="#fcfd54" src="https://via.placeholder.com/15/fcfd54/000000?text=+" width="25" height="20" /><img alt="#ea8d49" src="https://via.placeholder.com/15/ea8d49/000000?text=+" width="25" height="20" /><img alt="#8d503b" src="https://via.placeholder.com/15/8d503b/000000?text=+" width="25" height="20" /><img alt="#262136" src="https://via.placeholder.com/15/262136/000000?text=+" width="25" height="20" />
 </p>
