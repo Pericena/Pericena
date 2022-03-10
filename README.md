@@ -1,8 +1,11 @@
 #### hola soy Luishiño <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+
 ```zsh
 > neofetch
 ```
 <img align="left" src="https://cdn.discordapp.com/attachments/694325210656276501/860434408556068864/master.jpg" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
+
+
 ```csharp
 Pericena@github
 -------------------------
@@ -52,7 +55,7 @@ linkedin: lpericena
 <br>
 </p>
 
-<!---
+
 ##### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p align="center">
   <em>
@@ -62,7 +65,7 @@ linkedin: lpericena
   <a href="https://lpericena.blogspot.com/">
     <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">blog</b></a>
  </p>
---->
+
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
 
 
