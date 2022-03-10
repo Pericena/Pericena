@@ -3,7 +3,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://cdn.discordapp.com/attachments/694325210656276501/860434408556068864/master.jpg" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
+<img align="left" src="https://1.bp.blogspot.com/-wwtRQzrKiDc/XdjNcrLP9gI/AAAAAAAASQ0/4HTahliENFkigZf4VlaZRR9ujqszLylagCLcBGAsYHQ/s1600/11.png" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
 
 
 ```csharp
