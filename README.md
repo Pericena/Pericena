@@ -1,9 +1,9 @@
-#### hola soy Luishiño <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+#### hola soy Luishiño <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px">
 
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://1.bp.blogspot.com/-EqndGm2hI_Y/XdjNfZ1uAbI/AAAAAAAASQ8/rwXhQxZSJM05y2ZzDLDY7aymKjdTQ0zbACLcBGAsYHQ/s1600/siguem21.png" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
+<img align="left" src="https://1.bp.blogspot.com/-uBAfB3J5Dbs/XoVvv3GLExI/AAAAAAAAS9Q/a13TaAqBnRAiieFwDIEu_ZA04xwQ67QJgCLcBGAsYHQ/s1600/11.png" alt="luishiño" width="320" /> 
 
 
 ```csharp
@@ -41,8 +41,7 @@ Languages and Tools<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
-<p align="center">
-<br>
+<p align="left">
   <a href="https://www.linkedin.com/in/lpericena/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -52,22 +51,17 @@ Languages and Tools<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/
   <a href="https://www.instagram.com/lpericena/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-<br>
-<br>
-<br>
 </p>
 
-
-
-
+<!--
 <p align="center">
-  <em>
  Soy un estudiante de  <b>Ing de Sistemas</b>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
-  <br> , que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y <b>sobresalir.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  , un entusiasta del diseño</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, que está obsesionado con la idea de mejorarse a sí mismo y quiere una plataforma para <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y 
+    <b>sobresalir.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   <a href="https://lpericena.blogspot.com/">
     <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">blog</b></a>
  </p>
+-->
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
 
