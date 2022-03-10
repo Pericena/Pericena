@@ -10,12 +10,26 @@ Pericena@github
 -------------------------
 OS: Debian Linux x86_64
 Shell: zsh
+pronouns: "she" | "her"
 users: Luishiño Pericena
 Location: Santa_Cruz, BO
-Frameworks: Laravel ,Angular, Flask
+Frameworks:  Laravel ,Angular, Flask
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript,HTML, CSS,Python, Java,Bash ],
+  tools: [Node,Styled-Components],
+  architecture: ["microservices"],
+  techCommunities: {
+                        coorganizer: "",
+                        speaker: "",
+                        mentor: "",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
 Languages: JavaScript,
-           HTML/CSS, Java, SQL,python
-Learning: Node.js
+           HTML/CSS, Java, SQL,python,java,c++
+Learning: Node.js, arduino
 Hobbies: Animes/Manga, Books, Movies
 blog : lpericena.blogspot.com
 twitter: @Lpericena
@@ -58,20 +72,6 @@ linkedin: lpericena
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Un poco mas sobre mi.....  
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript,HTML, CSS,Python, Java,Bash ],
-  tools: [Node,Styled-Components],
-  architecture: ["microservices"],
-  techCommunities: {
-                        coorganizer: "",
-                        speaker: "",
-                        mentor: "",
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
   </em>  
 
 
