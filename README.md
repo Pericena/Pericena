@@ -24,10 +24,7 @@ twitter: @Lpericena
 instagram: @lpericena
 linkedin: lpericena
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#fdfefe" src="https://via.placeholder.com/15/fdfefe/000000?text=+" width="25" height="20" /><img alt="#fcfd54" src="https://via.placeholder.com/15/fcfd54/000000?text=+" width="25" height="20" /><img alt="#ea8d49" src="https://via.placeholder.com/15/ea8d49/000000?text=+" width="25" height="20" /><img alt="#8d503b" src="https://via.placeholder.com/15/8d503b/000000?text=+" width="25" height="20" /><img alt="#262136" src="https://via.placeholder.com/15/262136/000000?text=+" width="25" height="20" />
-</p>
+
 
 
 **<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
