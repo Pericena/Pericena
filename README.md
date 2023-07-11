@@ -69,6 +69,7 @@ Languages and Tools :**
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pericena&theme=onedark)](https://github.com/Pericena/github-profile-trophy)
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
