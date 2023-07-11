@@ -68,8 +68,11 @@ Languages and Tools :**
 <!--
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true)
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pericena&theme=onedark)](https://github.com/Pericena/github-profile-trophy)
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Pericena&theme=radical&row=1&column=9&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
