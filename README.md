@@ -17,7 +17,7 @@ Location: Santa_Cruz, BO
 Frameworks:  Laravel ,Angular, Flask
 Languages: JavaScript, Bash , css ,
            HTML/CSS, Java, SQL, python, java, c++ ,c#
-Learning: Node.js, arduino
+Learning: Node.js, arduino 
 Hobbies: Animes/Manga, Books, Movies
 blog : https://lpericena.blogspot.com
 twitter: @Lpericena
@@ -43,8 +43,7 @@ Languages and Tools :**
 </p>
 
 
-  ##
-**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">social media :** 
+  ## **<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">social media : ** 
 <p align="center">
 <!--
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
