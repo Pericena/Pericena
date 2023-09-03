@@ -3,7 +3,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://1.bp.blogspot.com/-uBAfB3J5Dbs/XoVvv3GLExI/AAAAAAAAS9Q/a13TaAqBnRAiieFwDIEu_ZA04xwQ67QJgCLcBGAsYHQ/s1600/11.png" alt="luishiño" width="320" /> 
+<img align="left" src="https://media.licdn.com/dms/image/D5603AQEVik00ielD9g/profile-displayphoto-shrink_800_800/0/1691676908442?e=1699488000&v=beta&t=JVJ7PXlSKbmCOqca74xmP-8Mx7gMfiVl3RcDsX7F4-I" alt="luishiño" width="320" /> 
 
 
 ```csharp
