@@ -3,7 +3,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://media.licdn.com/dms/image/D5603AQHqpuYsDjqyeQ/profile-displayphoto-shrink_800_800/0/1693772377922?e=1699488000&v=beta&t=_xXbnhnvWq3oGHuY8oYsegkcGuNGviMOmV5ULXaqKco" alt="luishiño" width="320" /> 
+<img align="left" src="https://media.licdn.com/dms/image/D5603AQEIvKGkLDATfg/profile-displayphoto-shrink_800_800/0/1696282355008?e=1701907200&v=beta&t=6QldhZyZn2clhAKfL85r2WtUbqMEjJJIe8KJ4Szlh94" alt="luishiño" width="320" /> 
 
 
 ```csharp
@@ -17,7 +17,7 @@ Location: Santa_Cruz, BO
 Frameworks:  Laravel ,Angular, Flask
 Languages: JavaScript, Bash , css ,
            HTML/CSS, Java, SQL, python, java, c++ ,c#
-Learning: Node.js, arduino 
+Learning: Node.js, arduino , Composer
 Hobbies: Animes/Manga, Books, Movies
 blog : https://lpericena.blogspot.com
 twitter: @Lpericena
@@ -25,7 +25,6 @@ instagram: @lpericena
 linkedin: lpericena
 ```
 
-<p> <img src="https://komarev.com/ghpvc/?username=Pericena&label=Profile%20views&color=blueviolet&style=flat" alt="Luishiño" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Pericena/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
 
 
 
