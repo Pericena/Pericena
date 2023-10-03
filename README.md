@@ -98,4 +98,7 @@ Languages and Tools :**
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pericena&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
+
 
