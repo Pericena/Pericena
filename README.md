@@ -11,7 +11,7 @@ Pericena@github
 OS: Debian Linux x86_64
 Shell: zsh
 pronouns: "she" | "her"
-users: Luishiño Pericena
+users: Luishiño Pericena Choque
 Location: Santa_Cruz, BO
 Frameworks:  Laravel ,Angular, Flask
 Languages: JavaScript, Bash , css ,
