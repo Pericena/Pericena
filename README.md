@@ -4,6 +4,7 @@
 > neofetch
 ```
 <img align="left" src="https://1.bp.blogspot.com/-wwtRQzrKiDc/XdjNcrLP9gI/AAAAAAAASQ0/4HTahliENFkigZf4VlaZRR9ujqszLylagCLcBGAsYHQ/s1600/11.png" alt="luishiño" width="320" /> 
+
 ```csharp
 Pericena@github
 -------------------------
