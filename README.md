@@ -6,14 +6,14 @@
 <img align="left" src="https://1.bp.blogspot.com/-wwtRQzrKiDc/XdjNcrLP9gI/AAAAAAAASQ0/4HTahliENFkigZf4VlaZRR9ujqszLylagCLcBGAsYHQ/s1600/11.png" alt="luishiño" width="320" /> 
 
 ```csharp
-Pericena@github
+Pericena@github 🧑🏻‍💻
 -------------------------
 OS: Debian Linux x86_64
 Shell: zsh
 pronouns: "he" | "him"
 users: Luishiño Pericena Choque
 Location: Santa_Cruz, BO
-Frameworks:  Laravel , Flask
+Frameworks:  Laravel , Flask , Astro ,React , Sprint Boot
 Languages: JavaScript, Bash , css ,
            HTML/CSS, Java, SQL, python, java, c++ ,c#
 Learning: Node.js, arduino , Composer
@@ -24,7 +24,7 @@ instagram: @lpericena
 linkedin: lpericena
 ```
 
-## Languages and Tools :
+##  Tech Stack :
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
@@ -36,7 +36,10 @@ linkedin: lpericena
 <img alt="Rafa-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 <img alt="Rafa-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Social media :
+
+## Social media :
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <p align="center">
 <a href="https://www.instagram.com/lpericena/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,6 +52,11 @@ linkedin: lpericena
 </p>
 <!--- stats & Trophy (start) -->
 <p align="center">
+
+
+## ⚙️GitHub Analytics :
+
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
