@@ -25,7 +25,7 @@ linkedin: lpericena
 ```
 
 ##  Tech Stack :
-<p align="center">
+<p>
   <!-- Frameworks y Librerías -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
