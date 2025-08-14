@@ -1,5 +1,12 @@
-#### Hello, I'm Luishiño! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px">
+<!-- Encabezado con animación estilo hacker -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&size=18&center=true&vCenter=true&width=650&lines=👋+Hello,%2C+I'm+Luishiño+Pericena;💻+Frontend+Developer;🔐+Especialista+en+Ciberseguridad;🚀+Apasionado+por+el+Open+Source;🖤+Dark+Mode+Lover" alt="Typing Animation">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px">
+</p>
 
+
+
+## About me
 ```zsh
 > neofetch
 ```
@@ -11,7 +18,7 @@ Pericena@github 🧑🏻‍💻
 OS: Debian Linux x86_64
 Shell: zsh
 pronouns: "he" | "him"
-users: Luishiño Pericena Choque
+Name: Luishiño Pericena Choque
 Location: Santa_Cruz, BO
 Frameworks:  Laravel , Flask , Astro ,React , Sprint Boot
 Languages: JavaScript, Bash , css ,
@@ -23,6 +30,7 @@ twitter: @Lpericena
 instagram: @lpericena
 linkedin: lpericena
 ```
+
 
 ##  Tech Stack :
 <p>
@@ -46,10 +54,7 @@ linkedin: lpericena
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash">
 </p>
-
-
 ## Social media :
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
   <a href="https://www.instagram.com/lpericena/" target="_blank">
@@ -66,13 +71,19 @@ linkedin: lpericena
   </a>
 </p>
 
+## Frontend Projects
+
+| Project                    | Description                                                             | URL                                                 |
+| -------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| 🌍 **WTMSantaCruz**        | Official website of WTM Santa Cruz built with React and Tailwind        | [View Project](https://wtmsantacruz-135e0.web.app/) |
+| 🚀 **NASA Space Apps SCZ** | Platform for the NASA Space Apps 2025 hackathon                         | [View Project](https://spaceappssantacruz.web.app/) |
+| 💼 **TalentRise**          | Recruitment and talent search platform in web3                          | [View Project](https://talentrise-io.vercel.app/)   |
+| 💬 **Comet Coders**        | NASA Space Apps Santa Cruz Hackathon – First Place in Augmented Reality | [View Project](https://small-talk-894ef.web.app/)   |
+
 <!--- stats & Trophy (start) -->
 <p align="center">
 
-
 ## ⚙️GitHub Analytics :
-
-
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
