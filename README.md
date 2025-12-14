@@ -1,20 +1,10 @@
 <!-- Encabezado con animación estilo hacker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=18&center=true&vCenter=true&width=850&lines=
-👋+Hello,+I'm+Luishiño+Pericena;
-+Frontend+Developer;
-+Cybersecurity+Specialist;
-+Penetration+Tester+%26+Ethical+Hacker;
-+SOX+%26+Security+Compliance+Analyst;
-+Python+%7C+JavaScript+%7C+Bash;
-+Web+Security+%7C+OWASP+Top+10;
-+Vulnerability+Research+%26+Exploit+Analysis;
-+Open+Source+Contributor;
-" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=18&center=true&vCenter=true&width=850&lines=👋+Hello,+I'm+Luishiño+Pericena;+Frontend+Developer;+Cybersecurity+Specialist;+Penetration+Tester+%26+Ethical+Hacker;+SOX+%26+Security+Compliance+Analyst;+Python+%7C+JavaScript+%7C+Bash;+Web+Security+%7C+OWASP+Top+10;+Vulnerability+Research+%26+Exploit+Analysis;+Open+Source+Contributor;" alt="Typing Animation">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="22px">
 </p>
 
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&size=18&center=true&vCenter=true&width=650&lines=👋+Hello,%2C+I'm+Luishiño+Pericena;💻+Frontend+Developer;🔐+Especialista+en+Ciberseguridad;🚀+Apasionado+por+el+Open+Source;🖤+Dark+Mode+Lover" alt="Typing Animation"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px"> </p>
 
 
 ## About me
