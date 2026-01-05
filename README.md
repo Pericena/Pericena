@@ -85,53 +85,6 @@ linkedin: lpericena
 | ♻️ **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-
-
-## ⚙️ GitHub Analytics
-
-<div align="center">
-
-<table align="center" border="0" width="90%">
-<tr>
-<td width="50%" align="center">
-
-  <!-- GitHub Stats -->
-  <img align="center"
-       src="https://uuphoria.github.io/github-readme-statsfork/api?username=Pericena&theme=dark&show_icons=true&count_private=true"
-       alt="GitHub Stats" />
-
-  <br><br>
-
-  <!-- GitHub Streak (fallback) -->
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=false"
-       alt="GitHub Streak Stats" />
-
-</td>
-<td width="50%" align="center">
-
-  <!-- Top Languages -->
-  <img align="center"
-       src="https://uuphoria.github.io/github-readme-statsfork/api/top-langs/?username=Pericena&theme=dark&hide_border=false&langs_count=10"
-       alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Trophies -->
-<img align="center"
-     width="90%"
-     src="https://github-profile-trophy.vercel.app/?username=Pericena&theme=radical&row=1&column=9&margin-h=15&margin-w=5&no-bg=true"
-     alt="GitHub Trophy" />
-
-</div>
-
-
 ## GitHub Analytics :
   <!--- stats (start) -->
 <table align="center">
