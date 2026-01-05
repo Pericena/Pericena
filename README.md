@@ -87,6 +87,10 @@ linkedin: lpericena
 
 ## GitHub Analytics :
   <!--- stats (start) -->
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&theme=default&show_icons=true&hide_border" /> 
+  
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
