@@ -89,8 +89,8 @@ linkedin: lpericena
   <!--- stats (start) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&theme=default&show_icons=true&hide_border" /> 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
