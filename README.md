@@ -38,7 +38,6 @@ linkedin: lpericena
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask">
   
   <!-- Lenguajes de Programación -->
@@ -57,12 +56,7 @@ linkedin: lpericena
 
   <!-- Seguridad / SOC -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="Metasploit">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/john/john-original.svg" alt="John the Ripper">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openvas/openvas-original.svg" alt="OpenVAS">
+
 </p>
 
 ## Social media :
@@ -99,7 +93,7 @@ linkedin: lpericena
 <!--- stats & Trophy (start) -->
 <p align="center">
 
-## ⚙️GitHub Analytics :
+## GitHub Analytics :
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
