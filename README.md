@@ -72,12 +72,17 @@ linkedin: lpericena
 
 ## Frontend Projects
 
-| Project                    | Description                                                             | URL                                                 |
-| -------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
-| 🌍 **WTMSantaCruz**        | Official website of WTM Santa Cruz built with React and Tailwind        | [View Project](https://wtmsantacruz-135e0.web.app/) |
-| 🚀 **NASA Space Apps SCZ** | Platform for the NASA Space Apps 2025 hackathon                         | [View Project](https://spaceappssantacruz.web.app/) |
-| 💼 **TalentRise**          | Recruitment and talent search platform in web3                          | [View Project](https://talentrise-io.vercel.app/)   |
-| 💬 **Comet Coders**        | NASA Space Apps Santa Cruz Hackathon – First Place in Augmented Reality | [View Project](https://small-talk-894ef.web.app/)   |
+
+| Project                             | Description                                                             | URL                                                |
+| ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------|
+| 🔗 **CriptoConferencia**            | Platform for blockchain and cryptocurrency conferences and talks        | [View Project](https://criptoconferencia.net/)      |
+| 🌍 **WTMSantaCruz**                 | Official website of WTM Santa Cruz built with React and Tailwind        | [View Project](https://wtmsantacruz-135e0.web.app/) |
+| 🚀 **NASA Space Apps SCZ**          | Platform for the NASA Space Apps 2025 hackathon                         | [View Project](https://spaceappssantacruz.web.app/) |
+| 💼 **TalentRise**                   | Recruitment and talent search platform in web3                          | [View Project](https://talentrise-io.vercel.app/)   |
+| 💬 **Comet Coders**                 | NASA Space Apps Santa Cruz Hackathon – First Place in Augmented Reality | [View Project](https://small-talk-894ef.web.app/)   |
+| 🕵️ **Steganografía**                | Tool for hiding text using invisible characters (zero-width)            | [View Project](https://pericena.github.io/zero-width.io/public/) |
+| ♻️ **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
