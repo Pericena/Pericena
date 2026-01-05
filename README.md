@@ -31,7 +31,8 @@ linkedin: lpericena
 ```
 
 
-##  Tech Stack :
+## Tech Stack :
+
 <p>
   <!-- Frameworks y Librerías -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro">
@@ -47,12 +48,23 @@ linkedin: lpericena
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-  
-  <!-- Herramientas y Utilidades -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bat/bat-original.svg" alt="BAT">
+
+  <!-- Seguridad / SOC -->
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="Metasploit">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/john/john-original.svg" alt="John the Ripper">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openvas/openvas-original.svg" alt="OpenVAS">
 </p>
+
 ## Social media :
 
 <p align="center">
