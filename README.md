@@ -51,11 +51,6 @@ linkedin: lpericena
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bat/bat-original.svg" alt="BAT">
-
-  <!-- Seguridad / SOC -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux">
 
 </p>
 
@@ -92,6 +87,36 @@ linkedin: lpericena
 
 <!--- stats & Trophy (start) -->
 <p align="center">
+
+
+## ⚙️ GitHub Analytics
+
+<div align="center">
+
+<!-- Stats + Streak -->
+<table align="center" border="0" width="90%">
+<tr>
+<td width="50%" align="center">
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pericena&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <!-- GitHub Streak -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=false" alt="GitHub Streak" />
+</td>
+<td width="50%" align="center">
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pericena&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Trophies -->
+<img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=Pericena&theme=radical&row=1&column=9&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" />
+
+</div>
+
 
 ## GitHub Analytics :
   <!--- stats (start) -->
