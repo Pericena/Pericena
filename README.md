@@ -68,8 +68,7 @@ linkedin  : https://www.linkedin.com/in/pericena
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pericena&theme=dark&show_icons=true&count_private=true" />
-<br></br>
+
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
@@ -88,10 +87,3 @@ linkedin  : https://www.linkedin.com/in/pericena
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9&langs_count=6">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pericena&theme=dark&hide_border=true&background=0d1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA" alt="Streak">
-</div>
