@@ -1,9 +1,11 @@
 <!-- Encabezado con animación estilo hacker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&size=18&center=true&vCenter=true&width=650&lines=👋+Hello,+I'm+Luishiño+Pericena;💻+Frontend+Developer;🔐+Cybersecurity+Specialist;🛡️+Penetration+Tester+%26+Ethical+Hacker;📊+SOX+%26+Security+Compliance+Analyst;🐍+Python+%7C+JavaScript+%7C+Bash;🌐+Web+Security+%7C+OWASP+Top+10;🧪+Vulnerability+Research+%26+Exploit+Analysis;🚀+Open+Source+Contributor;" alt="Typing Animation">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=1A1A1A&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
+    <img alt="Typing animation" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
+  </picture>
 </p>
-
 
 ## About me
 ```zsh
@@ -66,8 +68,6 @@ linkedin: [lpericena](https://www.linkedin.com/in/pericena)
 ## GitHub Analytics :
   <!--- stats (start) -->
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
 
 <table align="center">
 <tr border="none">
