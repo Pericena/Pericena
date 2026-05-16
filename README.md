@@ -1,10 +1,6 @@
 <!-- Encabezado con animación estilo hacker -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=1A1A1A&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
-    <img alt="Typing animation" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=750&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;🏆+NASA+Space+Apps+2025+-+1st+Place+AR;💻+Frontend+%7C+Full+Stack+Developer;🔥+React+%7C+Astro+%7C+Spring+Boot+%7C+Laravel;🔐+AppSec+%7C+Secure+Coding+%7C+OWASP+Top+10;📊+SOX+Compliance+%7C+Security+Audits;🎯+3%2B+Years+of+Building+Web+Solutions;🚀+Open+Source+%7C+Tech+Speaker+%7C+Mentor">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&height=70&lines=👋+Hello,+I'm+Luishiño+Pericena;💻+Frontend+%7C+Full+Stack+Developer;🏆+NASA+Space+Apps+2025+Winner+(Augmented+Reality);☕+Spring+Boot+%7C+React+%7C+Laravel+%7C+Astro;🐍+Python+%7C+JavaScript+%7C+TypeScript+%7C+Java;🔐+Application+Security+%7C+Secure+Coding+Practices;📊+SOX+%7C+Security+Compliance+%7C+Risk+Assessment;🌍+Open+Source+Contributor+%7C+WTM+Santa+Cruz;📈+5%2B+Projects+Delivered+%7C+3+Hackathons+Finalist" alt="Typing Animation">
 </p>
 
 ## About me
