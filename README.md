@@ -19,40 +19,18 @@ Shell: zsh
 pronouns: "he" | "him"
 Name: Luishiño Pericena Choque
 Location: Santa_Cruz, BO
-Frameworks:  Laravel , Flask , Astro ,React , Sprint Boot
+Frameworks:  Laravel , Flask , Astro ,React , Spring Boot
 Languages: JavaScript, Bash , css ,
-           HTML/CSS, Java, SQL, python, java, c++ ,c#
-Learning: Node.js, arduino , Composer
+           HTML/CSS, Java, SQL, python, c++ ,c#
+Learning: Node, Arduino , Composer
 Hobbies: Animes/Manga, Books, Movies
-blog : https://lpericena.blogspot.com
+blog : [lpericena](https://lpericena.blogspot.com)
 twitter: @Lpericena
 instagram: @lpericena
-linkedin: lpericena
+linkedin: [lpericena](https://www.linkedin.com/in/pericena)
 ```
 
 
-## Tech Stack :
-
-<p>
-  <!-- Frameworks y Librerías -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask">
-  
-  <!-- Lenguajes de Programación -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-
-</p>
 
 ## Social media :
 
