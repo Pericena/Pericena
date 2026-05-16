@@ -91,7 +91,6 @@ linkedin  : https://www.linkedin.com/in/pericena
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9&langs_count=6">
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pericena&theme=dark&hide_border=true&background=0d1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA" alt="Streak">
