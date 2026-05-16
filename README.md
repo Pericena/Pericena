@@ -19,7 +19,8 @@ Name      : Luishiño Pericena Choque
 Title     : Full Stack Developer | Application Security 
 Location  : Santa_Cruz, BO
 Frameworks: Laravel, Flask, Astro, React, Spring Boot
-Languages : JavaScript, Bash, CSS, HTML, Java, SQL, Python, C++, C#
+Languages : JavaScript, Bash, CSS, HTML, Java, SQL, 
+            Python, C++, C#
 Learning  : Node.js, Microservices, Cloud Architecture
 Hobbies   : Animes/Manga, Books, Movies
 Blog      : https://lpericena.blogspot.com
