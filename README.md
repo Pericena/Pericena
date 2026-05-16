@@ -28,28 +28,6 @@ twitter   : @Lpericena
 instagram : @lpericena
 linkedin  : https://www.linkedin.com/in/pericena
 ```
-
-
-
-## Social media :
-
-<p align="center">
-  <a href="https://www.instagram.com/lpericena/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-  </a>
-  <a href="https://lpericena.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank" alt="Blogger">
-  </a>
-  <a href="https://twitter.com/Lpericena" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/pericena" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
-</p>
-
-
-
 ## Social Media
 
 <p align="center">
@@ -74,13 +52,13 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 | Project                             | Description                                                             | URL                                                |
 | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------|
-| 🔗 **CriptoConferencia**            | Platform for blockchain and cryptocurrency conferences and talks        | [View Project](https://criptoconferencia.net/)      |
-| 🌍 **WTMSantaCruz**                 | Official website of WTM Santa Cruz built with React and Tailwind        | [View Project](https://wtmsantacruz-135e0.web.app/) |
-| 🚀 **NASA Space Apps SCZ**          | Platform for the NASA Space Apps 2025 hackathon                         | [View Project](https://spaceappssantacruz.web.app/) |
-| 💼 **TalentRise**                   | Recruitment and talent search platform in web3                          | [View Project](https://talentrise-io.vercel.app/)   |
-| 💬 **Comet Coders**                 | NASA Space Apps Santa Cruz Hackathon – First Place in Augmented Reality | [View Project](https://small-talk-894ef.web.app/)   |
-| 🕵️ **Steganografía**                | Tool for hiding text using invisible characters (zero-width)            | [View Project](https://pericena.github.io/zero-width.io/public/) |
-| ♻️ **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
+|  **CriptoConferencia**            | Platform for blockchain and cryptocurrency conferences and talks        | [View Project](https://criptoconferencia.net/)      |
+|  **WTMSantaCruz**                 | Official website of WTM Santa Cruz built with React and Tailwind        | [View Project](https://wtmsantacruz-135e0.web.app/) |
+|  **NASA Space Apps SCZ**          | Platform for the NASA Space Apps 2025 hackathon                         | [View Project](https://spaceappssantacruz.web.app/) |
+|  **TalentRise**                   | Recruitment and talent search platform in web3                          | [View Project](https://talentrise-io.vercel.app/)   |
+|  **Comet Coders**                 | NASA Space Apps Santa Cruz Hackathon – First Place in Augmented Reality | [View Project](https://small-talk-894ef.web.app/)   |
+|  **Steganografía**                | Tool for hiding text using invisible characters (zero-width)            | [View Project](https://pericena.github.io/zero-width.io/public/) |
+|  **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
 
 
 ## GitHub Analytics :
@@ -109,3 +87,12 @@ linkedin  : https://www.linkedin.com/in/pericena
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9&langs_count=6">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pericena&theme=dark&hide_border=true&background=0d1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA" alt="Streak">
+</div>
