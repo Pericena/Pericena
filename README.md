@@ -13,19 +13,20 @@
 Pericena@github 🧑🏻‍💻
 -------------------------
 OS: Debian Linux x86_64
-Shell: zsh
-pronouns: "he" | "him"
-Name: Luishiño Pericena Choque
-Location: Santa_Cruz, BO
-Frameworks:  Laravel , Flask , Astro ,React , Spring Boot
-Languages: JavaScript, Bash , css ,
-           HTML/CSS, Java, SQL, python, c++ ,c#
-Learning: Node, Arduino , Composer
-Hobbies: Animes/Manga, Books, Movies
-blog : [lpericena](https://lpericena.blogspot.com)
-twitter: @Lpericena
-instagram: @lpericena
-linkedin: [lpericena](https://www.linkedin.com/in/pericena)
+Shell     : zsh
+pronouns  : "he" | "him"
+Name      : Luishiño Pericena Choque
+Title     : Full Stack Developer | Application Security 
+Location  : Santa_Cruz, BO
+Frameworks: Laravel , Flask , Astro ,React , Spring Boot
+Languages : JavaScript, Bash , css ,
+            HTML/CSS, Java, SQL, python, c++ ,c#
+Learning  : Node.js, Microservices, Cloud Architecture
+Hobbies   : Animes/Manga, Books, Movies
+Blog      : https://lpericena.blogspot.com
+twitter   : @Lpericena
+instagram : @lpericena
+linkedin  : https://www.linkedin.com/in/pericena
 ```
 
 
