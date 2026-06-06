@@ -63,7 +63,8 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 ## GitHub Analytics :
   <!--- stats (start) -->
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact)
 
 <table align="center">
 <tr border="none">
@@ -85,5 +86,10 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
+
+
+
+
+
 
 
