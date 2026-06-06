@@ -63,14 +63,20 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 ## 📊 GitHub Analytics
 
-<!-- Test rápido - estos DEBEN funcionar -->
+<!-- Estadísticas principales -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Langs" width="48%" />
 </p>
 
+<!-- Racha de contribuciones -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pericena" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=true&background=0d1117&stroke=0000" alt="GitHub Streak" />
+</p>
+
+<!-- Trofeos (opcional, puede tardar en cargar) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pericena&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="90%" />
 </p>
 
 ### ✨Visitors
