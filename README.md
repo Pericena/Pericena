@@ -67,13 +67,6 @@ linkedin  : https://www.linkedin.com/in/pericena
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Pericena">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pericena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pericena&layout=compact&langs_count=8&theme=algolia&hide=php,blade,css,html"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=true&fire=DD2727"/>
   </a>
