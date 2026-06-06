@@ -61,28 +61,17 @@ linkedin  : https://www.linkedin.com/in/pericena
 |  **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
 
 
-## GitHub Analytics :
-  <!--- stats (start) -->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact)
+## 📊 GitHub Analytics
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<!-- Test rápido - estos DEBEN funcionar -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pericena&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericena&layout=compact&theme=default" width="45%" />
+</p>
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pericena&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
-</td>
-</tr>
-</table>
-
-<div align=center>
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Pericena&theme=radical&row=1&column=9&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pericena" />
+</p>
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
