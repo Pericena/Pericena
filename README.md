@@ -65,11 +65,11 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 
 ## GitHub Analytics
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pericena&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pericena&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pericena&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ### Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
