@@ -29,22 +29,25 @@ linkedin  : https://www.linkedin.com/in/pericena
 ```
 ## Social Media
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/lpericena" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Lpericena" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/lpericena/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://lpericena.blogspot.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://github.com/Pericena" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <!-- Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Pericena&color=594560&style=flat" 
+       onerror="this.src='https://hits.sh/github.com/Pericena.svg?label=Views&color=594560'" />
+  
+  <!-- Seguidores y repos -->
+  <img src="https://img.shields.io/github/followers/Pericena?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Pericena?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/repo-size/Pericena/Pericena?label=Profile%20Size&style=social" />
+</p>
+
+<p align="center">
+  <!-- Redes sociales -->
+  <a href="https://facebook.com/100009309755063"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/lpericena"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/lpericena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Lpericena"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white"/></a>
+  <a href="https://lpericena.blogspot.com"><img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white"/></a>
 </p>
 
 ## Frontend Projects
@@ -63,19 +66,13 @@ linkedin  : https://www.linkedin.com/in/pericena
 
 ## 📊 GitHub Analytics (Sistema Estable)
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Pericena">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pericena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pericena&layout=compact&langs_count=8&theme=algolia&hide=php,blade,css,html"/>
+  </a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pericena?style=for-the-badge&logo=github)](https://github.com/Pericena)
-[![GitHub User's stars](https://img.shields.io/github/stars/Pericena?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/Pericena)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pericena&style=for-the-badge&color=brightgreen)](https://github.com/Pericena)
-
-### 🔥 Racha de contribuciones
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pericena&theme=dark&hide_border=true&background=0d1117&stroke=0000&fire=ff8c00&ring=ff8c00)](https://git.io/streak-stats)
-
-### 🏆 Logros
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pericena&theme=darkhub&no-frame=true&row=1&column=5&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
