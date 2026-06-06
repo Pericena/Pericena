@@ -64,7 +64,7 @@ linkedin  : https://www.linkedin.com/in/pericena
 |  **Ecotrash**                     | Project focused on environmental sustainability and waste management    | [View Project](https://github.com/Pericena/Ecotrash)|
 
 
-## 📊 GitHub Analytics (Sistema Estable)
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Pericena">
@@ -73,11 +73,8 @@ linkedin  : https://www.linkedin.com/in/pericena
   </a>
 </p>
 
-### ✨Visitors
+### Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
-
-
-
 
 
 
