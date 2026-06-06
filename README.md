@@ -73,6 +73,12 @@ linkedin  : https://www.linkedin.com/in/pericena
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pericena&theme=dark&hide_border=true&fire=DD2727"/>
+  </a>
+</p>
+
 ### Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Pericena/ismlhbb.svg?cache=remove)](#)
 
